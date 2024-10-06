@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+.section-container{
+    @apply pt-32 px-12 max-w-[1440px] mx-auto;
+}
+.txt-size{
+    @apply text-lg;
+}
+@tailwind utilities;
+
+
